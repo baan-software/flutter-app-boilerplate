@@ -1,0 +1,89 @@
+{
+  "@@locale": "en",
+  "appTitle": "Flutter Boilerplate",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "homeTitle": "Home",
+  "@homeTitle": {
+    "description": "Title for the home screen"
+  },
+  "welcomeTitle": "Welcome to Flutter Boilerplate",
+  "@welcomeTitle": {
+    "description": "Welcome title on home screen"
+  },
+  "welcomeDescription": "A clean Flutter project with Riverpod, Freezed, and localization support",
+  "@welcomeDescription": {
+    "description": "Welcome description on home screen"
+  },
+  "featuresTitle": "Features",
+  "@featuresTitle": {
+    "description": "Title for features section"
+  },
+  "featureRiverpod": "Riverpod State Management",
+  "@featureRiverpod": {
+    "description": "Riverpod feature description"
+  },
+  "featureFreezed": "Freezed Data Classes",
+  "@featureFreezed": {
+    "description": "Freezed feature description"
+  },
+  "featureLocalization": "Localization Support",
+  "@featureLocalization": {
+    "description": "Localization feature description"
+  },
+  "featureCleanArchitecture": "Clean Architecture",
+  "@featureCleanArchitecture": {
+    "description": "Clean architecture feature description"
+  },
+  "errorTitle": "Error",
+  "@errorTitle": {
+    "description": "Error title"
+  },
+  "errorMessage": "Error: {error}",
+  "@errorMessage": {
+    "description": "Error message with error details",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "refresh": "Refresh",
+  "@refresh": {
+    "description": "Refresh button text"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading text"
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button text"
+  },
+  "signOut": "Sign Out",
+  "@signOut": {
+    "description": "Sign out button text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "emailRequired": "Email is required",
+  "@emailRequired": {
+    "description": "Email validation message"
+  },
+  "passwordRequired": "Password is required",
+  "@passwordRequired": {
+    "description": "Password validation message"
+  },
+  "invalidCredentials": "Invalid email or password",
+  "@invalidCredentials": {
+    "description": "Invalid credentials error message"
+  }
+} 
