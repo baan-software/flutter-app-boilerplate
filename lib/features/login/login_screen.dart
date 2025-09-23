@@ -3,8 +3,8 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_boilerplate/features/login/controller/login_controller.dart';
 import 'package:flutter_boilerplate/features/login/state/login_state.dart';
 
-class AuthScreen extends ConsumerWidget {
-  const AuthScreen({super.key});
+class LoginScreen extends ConsumerWidget {
+  const LoginScreen({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {

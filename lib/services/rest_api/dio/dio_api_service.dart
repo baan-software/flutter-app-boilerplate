@@ -6,7 +6,6 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter_boilerplate/services/rest_api/dio/dio_auth_token_interceptor.dart';
 import 'package:flutter_boilerplate/services/rest_api/request.dart';
 import 'package:flutter_boilerplate/services/rest_api/rest_api_service.dart';
-import 'package:flutter_boilerplate/services/storage/auth_tokens_storage.dart';
 
 class DioApiService implements RestApiService {
   late final Dio _dio;
